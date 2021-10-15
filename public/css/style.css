@@ -253,7 +253,7 @@ label.error {
 	font-size: 1rem;
 	display: inline-block;
 	border: 0;
-	border-radius: 0;
+	border-radius: 50px;
 	padding: 1.1em 2.28em 1em;
 	background-color: #000;
 	text-decoration: none;
@@ -414,7 +414,22 @@ a.brand:focus {
 	vertical-align: top;
 	margin-right: 0.65rem;
 	/* height: 2.356rem; */
+	width: 130px;
 }
+
+.btn-2{
+	margin-left: 70%;
+	color: white;
+	font-weight: 700;
+	border-radius: 50px;
+}
+
+@media (min-width: 494px){
+	.btn-2{
+		position: absolute;
+	}
+}
+
 .brand-info {
 	display: inline-block;
 }
@@ -1948,6 +1963,18 @@ Testimonials Css Style
 	width: 50%;
 	z-index: -1;
   }
+  .who-we-are .company-info .bg-3 {
+	background-image: url("../images/investiagte.jpg");
+	background-position: center top;
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 100%;
+	position: absolute;
+	right: 0;
+	top: 0;
+	width: 50%;
+	z-index: -1;
+  }
   @media (max-width: 767px) {
 	.who-we-are .company-info .company-image {
 	  width: 100%;
@@ -2381,6 +2408,7 @@ Testimonials Css Style
 
 
 
+
 /*====================================
 8.0 service-page
 ======================================*/
@@ -2430,3 +2458,5 @@ Testimonials Css Style
 	background: #34ccff;
 	border-radius: 50%;
   }
+
+  .overlay{}

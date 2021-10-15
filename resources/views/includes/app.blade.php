@@ -58,11 +58,14 @@
 					<li data-menuanchor="page4">
 						<a href="#page4">Services</a>
 					</li>
-					<li data-menuanchor="page6">
-						<a href="#page6">Our Approach</a>
+					<li data-menuanchor="page5">
+						<a href="#page5">Our Approach</a>
 					</li>
-					<li data-menuanchor="page9">
-						<a href="#page9">Contact</a>
+					<li data-menuanchor="page7">
+						<a href="#page7">Contact</a>
+					</li>
+					<li>
+						<a href="">Donate</a>
 					</li>
 				</ul>
 				<div class="menu-footer right-boxed">
@@ -82,6 +85,15 @@
 					<div class="brand-info">
 						<img class="brand-img" alt="" src="images/mc-logo.png" />
 					</div>
+				</a>
+					
+				<a href="">
+					<button
+						type="button"
+						class="icon-bar btn btn-2"
+						>
+						DONATE
+					</button>
 				</a>
 				<button
 					type="button"
