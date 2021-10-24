@@ -65,7 +65,7 @@
 						<a href="#page7">Contact</a>
 					</li>
 					<li>
-						<a href="">Donate</a>
+						<a href="{{route('pages.donate')}}">Donate</a>
 					</li>
 				</ul>
 				<div class="menu-footer right-boxed">
@@ -87,7 +87,7 @@
 					</div>
 				</a>
 					
-				<a href="">
+				<a href="{{route('pages.donate')}}">
 					<button
 						type="button"
 						class="icon-bar btn btn-2"

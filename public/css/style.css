@@ -364,7 +364,7 @@ label.error {
 	color: #fff;
 }
 .text-primary {
-	color: #ffeb00 !important;
+	color: #00ADE5 !important;
 }
 .masked {
 	position: relative;
@@ -414,14 +414,15 @@ a.brand:focus {
 	vertical-align: top;
 	margin-right: 0.65rem;
 	/* height: 2.356rem; */
-	width: 130px;
+	width: 150px;
 }
 
 .btn-2{
-	margin-left: 70%;
+	margin-left: 65%;
 	color: white;
 	font-weight: 700;
 	border-radius: 50px;
+	margin-top: 20px;
 }
 
 @media (min-width: 494px){
@@ -820,7 +821,7 @@ a.brand:focus {
 .pp-slidesNav .active span,
 #pp-nav span:hover,
 .pp-slidesNav span:hover {
-	background: #ffeb00;
+	background: #00ADE5;
 }
 .pagepiling .section {
 	background: #272727;
@@ -1162,12 +1163,12 @@ a.brand:focus {
 .icon-quote {
 	display: inline-block;
 	margin-top: -0.6rem;
-	color: #ffeb00;
+	color: #00ADE5;
 	width: 5rem;
 	height: 5rem;
 	line-height: 4.2rem;
 	text-align: center;
-	border: 2px solid #ffeb00;
+	border: 2px solid #00ADE5;
 	border-radius: 50%;
 	font-size: 2.454rem;
 	margin-bottom: 5rem;
@@ -1237,13 +1238,13 @@ a.brand:focus {
 	display: block;
 	width: 12px;
 	height: 12px;
-	border: #ffeb00 1px solid;
+	border: #00ADE5 1px solid;
 	position: relative;
 	margin: 5px;
 	border-radius: 50%;
 }
 .owl-dot.active span {
-	background: #ffeb00;
+	background: #00ADE5;
 }
 .content {
 	padding-top: 17rem;

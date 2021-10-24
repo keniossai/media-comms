@@ -28,11 +28,13 @@
 												<div class="row">
 													<div class="col-md-8 col-lg-8">
 														<h1 class="text-white">
-															We believe in community-led democratic participation in Africa.
+															We believe in community-led democratic participation <br> in Africa.
 														</h1>
-														<button type="submit"  class="btn">
-															ABOUT
-														</button>
+														<a href="#page2">
+															<button type="submit"  class="btn">
+																ABOUT
+															</button>
+														</a>
 													</div>
 												</div>
 											</div>
@@ -175,7 +177,7 @@
 				</div>
 				<div
 					data-anchor="page4"
-					class="pp-scrollable text-white section section-3 bg-info">
+					class="pp-scrollable text-white section section-3 bg-white">
 					<div class="scroll-wrap">
 						<div
 							class="section-bg"
@@ -332,7 +334,7 @@
 																	</p>
 																</div>
 																<div class="review-author">
-																	<div class="author-name" style="color: #d62d56">– Helen Keller</div>
+																	<div class="author-name" style="color: #00ADE5">– Helen Keller</div>
 																</div>
 															</div>
 															<div class="review-carousel-item">
@@ -342,7 +344,7 @@
 																	</p>
 																</div>
 																<div class="review-author">
-																	<div class="author-name" style="color: #d62d56"> – African Proverb</div>
+																	<div class="author-name" style="color: #00ADE5"> – African Proverb</div>
 																</div>
 															</div>
 															<div class="review-carousel-item">
@@ -352,7 +354,7 @@
 																	</p>
 																</div>
 																<div class="review-author">
-																	<div class="author-name" style="color: #d62d56">– George Bernard Shaw.</div>
+																	<div class="author-name" style="color: #00ADE5">– George Bernard Shaw.</div>
 																</div>
 															</div>
 														</div>
@@ -388,7 +390,7 @@
 														</h2>
 														<section class="contact-address">
 															
-															<h3><span class="phone">+2348022228389</span></h3>
+															<h3><span class="phone">+2348032262350</span></h3>
 														</section>
 													</div>
 													<div class="col-md-6">
